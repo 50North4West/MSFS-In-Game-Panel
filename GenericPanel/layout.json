@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "html_ui/InGamePanels/G36Panel/G36Panel.css",
+      "size": 0,
+      "date": 132804376868350454
+    },
+    {
+      "path": "html_ui/InGamePanels/G36Panel/G36Panel.html",
+      "size": 1562,
+      "date": 132804381790026965
+    },
+    {
+      "path": "html_ui/InGamePanels/G36Panel/G36Panel.js",
+      "size": 0,
+      "date": 132804377019540948
+    },
+    {
+      "path": "html_ui/Texures/Menu/toolbar/ICON_TOOLBAR_G36IP.svg",
+      "size": 906,
+      "date": 132804389985417800
+    },
+    {
+      "path": "icons/toolbar/ICON_TOOLBAR_G36IP.svg",
+      "size": 906,
+      "date": 132804390146256463
+    },
+    {
+      "path": "InGamePanels/G36IP-Hanger-Module.spb",
+      "size": 681,
+      "date": 132804375663689832
+    }
+  ]
+}

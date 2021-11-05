@@ -1,0 +1,17 @@
+<SimBase.Document Type="InGamePanels" version="1,0">
+  <Filename>Generic_Panel.spb</Filename>
+  <InGamePanels.InGamePanelDefinition
+    id="Generic_Panel"
+    Name="G36 Hanger Module"
+    url="html_UI/InGamePanels/G36Panel/G36Panel.html"
+    resizeDirections="Both"
+    minWidth="33"
+    minHeight="35"
+    defaultWidth="36"
+    defaultHeight="36"
+    defaultTop="33"
+    defaultRight="2"
+    icon="ICON_TOOLBAR_NAME"
+    buttonVisible="true">
+  </InGamePanels.InGamePanelDefinition>
+</SimBase.Document>

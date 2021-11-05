@@ -1,0 +1,31 @@
+<AssetPackage Name="g36ip-hanger-module" Version="2.0.0">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>G36IP-Hanger-Module</Title>
+		<Manufacturer>Beechcraft Maintenance</Manufacturer>
+		<Creator>CaptMatto</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="G36IP-Hanger-Module">
+			<Type>SPB</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\</AssetDir>
+			<OutputDir>Build\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MarketplaceData">
+			<Type>MarketplaceData</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\g36ip-hanger-module\MarketplaceData</AssetDir>
+			<OutputDir>MarketplaceData\g36ip-hanger-module</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
