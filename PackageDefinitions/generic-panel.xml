@@ -1,0 +1,39 @@
+<AssetPackage Name="generic-panel" Version="1.0.0">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>Generic-Panel</Title>
+		<Manufacturer>Manufacturer</Manufacturer>
+		<Creator>CaptMatto</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>true</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\generic-panel\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\generic-panel</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="Generic-Panel">
+			<Type>SPB</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\</AssetDir>
+			<OutputDir>InGamePanels\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MarketplaceData">
+			<Type>MarketplaceData</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\generic-panel\MarketplaceData</AssetDir>
+			<OutputDir>MarketplaceData\generic-panel</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

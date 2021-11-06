@@ -1,4 +1,4 @@
-<Project Version="2" Name="Generic Panel" FolderName="Packages">
+<Project Version="2" Name="Generic-Panel" FolderName="Packages">
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>

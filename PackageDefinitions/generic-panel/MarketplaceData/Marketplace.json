@@ -1,0 +1,16 @@
+{
+  "market-data": {
+    "Neutral": {
+      "creator": "CaptMatto",
+      "title": "Generic-Panel",
+      "description": "A description",
+      "support-contact": "help@help.com",
+      "tags": "",
+      "thumbnail_main": "itemthumbnailformaincontent.jpg",
+      "thumbnail_secondary": "itemthumbnailformainsecondarycontent.jpg",
+      "categories": "TT:MARKETPLACE.CATEGORY.AVIONICS\/TT:MARKETPLACE.CATEGORY.AVIONICS.OTHER",
+      "media-backgrounds": [],
+      "blocks": []
+    }
+  }
+}

@@ -2,8 +2,8 @@
   <Filename>Generic_Panel.spb</Filename>
   <InGamePanels.InGamePanelDefinition
     id="Generic_Panel"
-    Name="G36 Hanger Module"
-    url="html_UI/InGamePanels/G36Panel/G36Panel.html"
+    Name="Generic Panel"
+    url="html_UI/InGamePanels/GenericPanel/Panel.html"
     resizeDirections="Both"
     minWidth="33"
     minHeight="35"
